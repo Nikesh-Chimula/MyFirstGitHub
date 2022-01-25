@@ -6,7 +6,7 @@
       repository file. I had doubt still regarding my resposity in the code<> page on fhe lift side it showing
       two names of respositiries.
       
-## Little bit Introduction of mine :-)
+## Little bit Introduction of self :-)
 
       I am Nikesh Chimula. I am interested in learnings new thing and had a passion towards the technologies.
       I had a dream to create a well-knowed, helpfull application and it would be reduce time and space to 
