@@ -16,7 +16,7 @@
       
 ## Regarding what I liked and dislikes while doing this: 
 
-      I liked in seraching to create a repository and then adding markdown file. While even using different 
+      I liked in searching to create a repository and then adding markdown file. While even using different 
       styles as it is much similar to HTML.
       I don't have any dislikes because while we learning a new thing or subject we definitely face a lot of
       challenges. 
