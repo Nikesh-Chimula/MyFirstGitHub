@@ -19,7 +19,7 @@
 
       I liked searching to create a repository and then adding a markdown file. While even using different 
       styles as it is much similar to HTML.
-      I don't have any dislikes because while we learning a new thing or subject we definitely face a lot of
+      I don't have any dislikes because while we learning a new thing or subject we face a lot of
       challenges. 
       
       
