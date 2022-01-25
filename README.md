@@ -4,7 +4,7 @@
     
       I gained knowledge in searching and where to start the process then I get to know that I need to create 
       a repository to add a markdown file. I am just confused weather I had done correctly or not.
-      I had doubt still regarding my repository in the code<> page on the left side it two names of repositories.
+      I had doubt still regarding my repository in the code<> page on the left side it showing two names of repositories.
       
      
 ## Little bit Introduction of self :-)
