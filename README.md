@@ -2,7 +2,7 @@
 
 ## Knowledge gained while creating md file:
     
-      First, we need to create a repository then we can create a markdown file and I am just confused at creating 
+      First, we need to create a repository then we can create a markdown file and I am just confused about creating 
       repository file. I had doubt still regarding my resposity in the code<> page on the lift side it showing
       two names of respositiries.
       
