@@ -8,7 +8,7 @@
       
 ## Little bit Introduction of mine :-)
 
-      I am Nikesh Chimula. I am interested in learning new thing and had a passion towards the technologies.
+      I am Nikesh Chimula. I am interested in learnings new thing and had a passion towards the technologies.
       I had a dream to create a well-knowed, helpfull application and it would be reduce time and space to 
       handle particular situation.
       I am going on in gaining the knowledge in coding,database and easy way to handle in different situations.
