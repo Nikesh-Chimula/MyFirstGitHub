@@ -14,7 +14,7 @@
       I am going on in gaining the knowledge in coding,database and easy way to handle in different situations.
       My favourite hobby is playing games,caroms, shettle.
       
-## Regarding what I liked and dialoked while doing this: 
+## Regarding what I liked and dislikes while doing this: 
 
       I liked to serachimg to creating a repository and then adding markdown file. While even using different 
       styles as it is much similar to HTML.
