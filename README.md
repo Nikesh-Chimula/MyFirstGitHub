@@ -8,11 +8,11 @@
       
 ## Little bit Introduction of self :-)
 
-      I am Nikesh Chimula. I am interested in learnings new thing and had a passion towards the technologies.
+      I am Nikesh Chimula and interested in learnings new thing and had a passion towards the technologies.
       I had a dream to create a well-knowed, helpfull application and it would be reduce time and space to 
       handle particular situation.
       I am going on in gaining the knowledge in coding,database and easy way to handle in different situations.
-      My favourite hobby is playing games,caroms, shettle.
+      My favourite hobby is playing games,carom,shettle and chess.
       
 ## Regarding what I liked and dislikes while doing this: 
 
