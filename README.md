@@ -2,8 +2,8 @@
 
 ## Knowledge gained while creating md file:
     
-      First, we need to create a repository then we can create a markdown file and I am just confused about creating 
-      a repository file. I had doubt still regarding my repository in the code<> page on the left side it showing
+      I gained a knowledge in searching and where to start the process then I get to know that I need to create 
+      a repository file to add markdown file. I had doubt still regarding my repository in the code<> page on the left side it showing
       two names of repositories.
       
 ## Little bit Introduction of self :-)
