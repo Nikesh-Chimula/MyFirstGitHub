@@ -1,5 +1,6 @@
 # First Assignment in Github 
-This is my First repository on GitHub 
+
+## Knowledge gained in the course 
 
 **Hello**
 
