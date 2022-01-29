@@ -13,7 +13,7 @@
       I had a dream to create a well-known, helpful application and it would reduce time and space to 
       handle a particular situation.
       I am going on in gaining knowledge in coding,database and easy ways to handle different situations.
-      My favourite hobby is playing games,carom,shuttle.
+      My favourite hobby is playing games,carom,shuttle and chess.
       
 ## Regarding what I liked and dislikes while doing this: 
 
